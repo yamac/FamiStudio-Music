@@ -476,7 +476,7 @@ Project Version="3.0.2" TempoMode="FamiStudio" Name="Yuushayo Isoge!!" Author="K
 				Note Time="0" Value="C3" Duration="72" Instrument="Chorus 2"
 				Note Time="72" Value="D3" Duration="24" Instrument="Chorus 2"
 			Pattern Name="Bridge 8"
-				Note Time="0" Value="E3" Duration="60" Release="48" Instrument="Chorus 2"
+				Note Time="0" Value="A#2" Duration="60" Release="48" Instrument="Chorus 2"
 			Pattern Name="Chorus 1"
 				Note Time="0" Value="D#3" Duration="30" Release="18" Instrument="Strings"
 				Note Time="36" Value="D#3" Duration="12" Release="6" Instrument="Strings"
